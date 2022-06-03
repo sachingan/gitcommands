@@ -5,3 +5,6 @@ git remote add <task name> <github trajectory copied from github>
 
 git push -u<task name> master
 
+sachin ganesh h
+python developer
+
