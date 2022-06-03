@@ -1,4 +1,5 @@
 git init
 git hello
 
-git add -A
+git a
+entharo mahanubavulooooooo
