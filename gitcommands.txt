@@ -1,9 +1,7 @@
 git init
 git hello
 
-git a
-entharo mahanubavulooooooo
+git remote add <task name> <github trajectory copied from github>
 
-when you were here before
-couldnt look you in the eye
-you look like an angel
+git push -u<task name> master
+
